@@ -1,1 +1,2 @@
-this is origin versions --IP is 1.1.0 author:czz
+this is change versions --IP is 1.1.1 author:zsf
+add a  Debug capacit
